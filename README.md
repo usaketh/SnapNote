@@ -3,4 +3,5 @@
 
 
 This is online Notes App which is automatically saved using local storage.
-https://usaketh.github.io/Notes-App/
+
+Try it out: https://usaketh.github.io/SnapNote/
